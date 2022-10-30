@@ -28,3 +28,5 @@ You can get up to 10 points per thread.
 - 1597 = black (6th dan)
 - 2584 = black (7th dan)
 - 4181 = black (8th dan)
+
+##Add a negative point system
