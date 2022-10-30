@@ -3,10 +3,12 @@ A bot that will keep track of how many helpful answers you've provided in a Disc
 
 ## Points / leveling system
 
-- 1 answer = 2 point
-- 1 reaction = 3 points
+|      Action (x1)     | Points<br>Received |
+|:--------------------:|:------------------:|
+|        Answer        |          2         |
+| Reaction<br>Received |          3         |
 
-You can get up to 10 points per thread.
+You can get up to **10 points** per thread.
 
 ### Levels:
 
