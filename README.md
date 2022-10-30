@@ -1,7 +1,7 @@
 # dojo-bot
 A bot that will keep track of how many helpful answers you've provided in a Discord forum
 
-**[Click Here][discord_link]** to join the **CS Dojo** Discord community.
+To learn more about it, provide feedback, or see it in action (in the future), join our Discord **[here][discord_link]**.
 
 ## Points / leveling system
 
@@ -12,7 +12,7 @@ A bot that will keep track of how many helpful answers you've provided in a Disc
 
 You can get up to **10 points** per thread.
 
-### Levels:
+### Levels
 
 | Points |  Belt  |   Rank   |
 |-------:|:------:|:--------:|
