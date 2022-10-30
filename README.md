@@ -1,6 +1,7 @@
 # dojo-bot
 A bot that will keep track of how many helpful answers you've provided in a Discord forum
 
+Joing to the Dojo community: https://discord.com/invite/nNtVfKddDD
 ## Points / leveling system
 
 - 1 answer = 2 point
