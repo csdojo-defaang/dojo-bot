@@ -1,7 +1,17 @@
 # dojo-bot
 A bot that will keep track of how many helpful answers you've provided in a Discord forum
 
-[> Discord Join Link](https://discord.com/invite/nNtVfKddDD)
+<table>
+<td>
+  <a href="https://discord.com/invite/nNtVfKddDD">
+  <img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" width=30>
+  </a>
+</td>
+<td>
+  join link: https://discord.com/invite/nNtVfKddDD
+</td>
+</table>
+
 
 ## Points / leveling system
 
