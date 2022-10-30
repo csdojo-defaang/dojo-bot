@@ -30,3 +30,5 @@ You can get up to 10 points per thread.
 - 4181 = black (8th dan)
 
 ##Add a negative point system
+If someone not following the rules of the server just cut out some of their points. 
+If the limit that negative points exceeds some limit then fire those people from server because they are breaking the rules again and again.
