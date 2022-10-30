@@ -1,6 +1,8 @@
 # dojo-bot
 A bot that will keep track of how many helpful answers you've provided in a Discord forum
 
+**[Click Here][discord_link]** to join the **CS Dojo** Discord community.
+
 ## Points / leveling system
 
 |      Action (x1)     | Points<br>Received |
@@ -32,3 +34,6 @@ You can get up to **10 points** per thread.
 |   1597 |  Black |  6th Dan |
 |   2584 |  Black |  7th Dan |
 |   4181 |  Black |  8th Dan |
+
+<!-- Links -->
+[discord_link]: https://discord.com/invite/nNtVfKddDD
