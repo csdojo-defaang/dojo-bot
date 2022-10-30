@@ -3,28 +3,30 @@ A bot that will keep track of how many helpful answers you've provided in a Disc
 
 ## Points / leveling system
 
-- 1 answer = 2 point
+- 1 answer   = 2 point
 - 1 reaction = 3 points
 
 You can get up to 10 points per thread.
 
 ### Levels:
 
-- 1 point = white belt (10th kyu)
-- 2 points = purple belt (9th kyu)
-- 3 = red (8th kyu)
-- 5 = orange (7th)
-- 8 = yellow (6th)
-- 13 = green (5th)
-- 21 = blue (4th)
-- 34 = brown (3rd)
-- 55 = brown (2nd)
-- 89 = brown (1st)
-- 144 = black belt (1st dan)
-- 233 = black belt (2nd dan)
-- 377 = black belt (3rd dan)
-- 610 = black (4th dan)
-- 987 = black (5th dan)
-- 1597 = black (6th dan)
-- 2584 = black (7th dan)
-- 4181 = black (8th dan)
+| Points |  Belt  |   Rank   |
+|-------:|:------:|:--------:|
+|      1 |  White | 10th Kyu |
+|      2 | Purple |  9th Kyu |
+|      3 |   Red  |  8th Kyu |
+|      5 | Orange |  7th Kyu |
+|      8 | Yellow |  6th Kyu |
+|     13 |  Green |  5th Kyu |
+|     21 |  Blue  |  4th Kyu |
+|     34 |  Brown |  3rd Kyu |
+|     55 |  Brown |  2nd Kyu |
+|     89 |  Brown |  1st Kyu |
+|    144 |  Black |  1st Dan |
+|    233 |  Black |  2nd Dan |
+|    377 |  Black |  3rd Dan |
+|    610 |  Black |  4th Dan |
+|    987 |  Black |  5th Dan |
+|   1597 |  Black |  6th Dan |
+|   2584 |  Black |  7th Dan |
+|   4181 |  Black |  8th Dan |
