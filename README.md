@@ -8,10 +8,9 @@ A bot that will keep track of how many helpful answers you've provided in a Disc
   </a>
 </td>
 <td>
-  join link: https://discord.com/invite/nNtVfKddDD
+  <a href="https://discord.com/invite/nNtVfKddDD">Join cs dojo + dfaang discord server</a>
 </td>
 </table>
-
 
 ## Points / leveling system
 
