@@ -4,7 +4,7 @@ We're going to use JavaScript or TypeScript for this. [Discussion link](https://
 
 ## Step 1
 
-Create a simple version of this bot. It'll only available on the dojo server.
+Create a simple version of this bot. It'll only be available on the dojo server.
 
 ## Step 2
 
